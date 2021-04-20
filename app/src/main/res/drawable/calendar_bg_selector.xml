@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 选中与未选中的颜色 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item app:tsquare_state_range_middle="true">
+        <color android:color="@color/calendar_item_selected_mid" />
+    </item>
+    <item android:state_selected="true">
+        <color android:color="@color/calendar_item_selected" />
+    </item>
+    <item android:state_pressed="true">
+        <color android:color="@color/calendar_item_select_bg" />
+    </item>
+    <item app:tsquare_state_current_month="false">
+        <color android:color="@color/white" />
+    </item>
+    <item app:tsquare_state_today="true">
+        <color android:color="@color/white" />
+    </item>
+    <item>
+        <color android:color="@color/white" />
+    </item>
+</selector>

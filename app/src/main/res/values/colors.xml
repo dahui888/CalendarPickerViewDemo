@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c483</color>
+    <color name="colorPrimaryDark">#00c483</color>
+    <color name="colorAccent">#00c483</color>
+
+    <!-- 纯白色 -->
+    <color name="white">#ffffff</color>
+
+    <!-- 状态栏颜色-->
+    <color name="status_bar_color">#50000000</color>
+
+    <!-- UI背景颜色 -->
+    <color name="background_main">#f5f4f2</color>
+    <color name="background_blue">#00c483</color>
+    <color name="background_red">#e73636</color>
+    <color name="background_gray">#787881</color>
+    <color name="transparent_half">#99000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- 按钮颜色 -->
+    <color name="button_normal">#00c483</color><!-- 可点击颜色 -->
+    <color name="button_click">#63E1B7</color><!-- 点击时颜色 -->
+    <color name="button_normal_black">#333337</color><!-- 可点击颜色 -->
+    <color name="button_click_black">#121213</color><!-- 点击时颜色 -->
+    <color name="button_gray">#bbbbbb</color><!-- 不可点击颜色 -->
+
+    <!-- 文字颜色 -->
+    <color name="text_main_black">#333333</color><!-- 主要文字颜色 -->
+    <color name="text_main_blue">#00c483</color><!-- 强调文字颜色 -->
+    <color name="text_minor_dark">#80878f</color><!-- 次要文字颜色 -->
+    <color name="text_hint_gray">#bbbbbb</color><!-- 提示文字颜色 -->
+    <color name="text_price_orange">#ff902c</color><!-- 价格文字颜色 -->
+    <color name="text_coffe">#B6AA87</color><!-- 价格文字颜色 -->
+    <color name="text_price_green">#68a45c</color><!-- 价格文字颜色 -->
+
+    <!-- 绿色价格展示-->
+    <color name="text_green_price">#68a45c</color>
+    <color name="text_price_red">#ac0000</color><!-- 提示文字颜色 -->
+    <color name="purchase_text_main_black">#22222e</color><!-- 采购文字颜色 -->
+    <color name="purchase_text_minor_dark">#80878f</color><!-- 采购文字颜色 -->
+    <color name="purchase_text_green">#69a55b</color><!-- 采购文字颜色 -->
+
+    <color name="login_gray_bg">#B2B2B2</color>
+    <color name="order_gray_text_color">#B7B7BB</color>
+
+    <!-- 分割线颜色 -->
+    <color name="divide_gary">#dbdbdb</color>
+    <color name="divide_gary_new">#F6F6F8</color>
+
+    <!-- 条目点击颜色 -->
+    <color name="item_click">#e4e4e4</color>
+
+    <!-- 日期选中颜色 -->
+    <color name="calendar_item_selected">#00c483</color>
+    <!-- 日期选中中间日期颜色 -->
+    <color name="calendar_item_selected_mid">#63E1B7</color>
+    <!-- 日期块选中按压时颜色 -->
+    <color name="calendar_item_select_bg">#f6f6f8</color>
+
+    <!--<color name="calendar_active_month_bg">#fff5f7f9</color>-->
+    <!--<color name="calendar_bg">#ffffffff</color>-->
+    <!--<color name="calendar_divider">#ffbababa</color>-->
+    <!--<color name="calendar_inactive_month_bg">#ffd7d9db</color>-->
+    <!--<color name="calendar_selected_day_bg">#ff379bff</color>-->
+    <!--<color name="calendar_highlighted_day_bg">#ccffcc</color>-->
+    <!--<color name="calendar_selected_range_bg">#ff96caff</color>-->
+    <!--<color name="calendar_text_inactive">#40778088</color>-->
+    <!--<color name="calendar_text_active">#ff778088</color>-->
+    <!--<color name="calendar_text_selected">#ffffffff</color>-->
+    <!--<color name="calendar_text_unselectable">#7f778088</color>-->
+    <!--<color name="calendar_text_highlighted">#ff778088</color>-->
+</resources>

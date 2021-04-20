@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">日期选择Demo</string>
+
+    <string name="day_name_format">EEE</string>
+    <string name="invalid_date">日期选择必须在 %1$s 与 %2$s 之间.</string>
+    <string name="month_only_name_format">MMMM</string>
+    <string name="year_only_format">yyyy</string>
+</resources>
